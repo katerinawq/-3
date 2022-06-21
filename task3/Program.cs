@@ -10,6 +10,7 @@ double a = double.Parse(Console.ReadLine());
 double n = Math.Sqrt(a);
 Console.WriteLine (n);        */
 
+
 Console.WriteLine("Введите координату точки X ");
 int x1 =int.Parse(Console.ReadLine());
 Console.WriteLine("Введите координату точки Y");
@@ -19,6 +20,8 @@ Console.WriteLine("Введите координату точки X ");
 int x2 =int.Parse(Console.ReadLine());
 Console.WriteLine("Введите координату точки Y");
 int y2 =int.Parse(Console.ReadLine());
+
+
 
 Double D = Math.Sqrt(Math.Pow(x1 - x2,2) + Math.Pow(y1 - y2,2));
 Console.WriteLine(Math.Round(D,2));

@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/DZ1.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/DZ1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/DZ1.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/DZ1.AssemblyInfo.cs
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/DZ1.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/ Семенар3/DZ1/bin/Debug/net6.0/DZ1
+/Users/ekaterina/Desktop/ Семенар3/DZ1/bin/Debug/net6.0/DZ1.deps.json
+/Users/ekaterina/Desktop/ Семенар3/DZ1/bin/Debug/net6.0/DZ1.runtimeconfig.json
+/Users/ekaterina/Desktop/ Семенар3/DZ1/bin/Debug/net6.0/DZ1.dll
+/Users/ekaterina/Desktop/ Семенар3/DZ1/bin/Debug/net6.0/DZ1.pdb
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/DZ1.dll
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/refint/DZ1.dll
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/DZ1.pdb
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/DZ1.genruntimeconfig.cache
+/Users/ekaterina/Desktop/ Семенар3/DZ1/obj/Debug/net6.0/ref/DZ1.dll
